@@ -46,7 +46,7 @@ namespace RemoutConfig
 
             if (HtmlText != "")
             {
-                if(_key != null)
+                if(_key != "")
                 {
                     LoadRemoutConfig();
                 }
